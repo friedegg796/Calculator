@@ -9,7 +9,7 @@ void div(double x, double y);
 void rem(double x, double y);
 void absdiff(double x, double y);
 // They do not go past here
-int main()
+int main(void)
 {
 
     double x, y; // our two variables that are calculated
